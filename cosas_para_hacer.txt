@@ -1,0 +1,7 @@
+instalar odbc
+usar pyodbc para acceder a la db
+
+encontrar el nombre de las tablas
+hacer un script que agarre el .mdb y cree un .csv con todos los datos
+
+ver el tema de hacer pdfs
